@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@testing-library/react": "^14.1.2",
+    "immutable": "^5.0.0-beta.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "slate": "^0.101.5",
+    "slate-react": "^0.101.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
